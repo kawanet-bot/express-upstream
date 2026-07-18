@@ -1,6 +1,6 @@
 # express-upstream
 
-[![Node.js CI](https://github.com/kawanet/express-upstream/actions/workflows/nodejs.yml/badge.svg?branch=master)](https://github.com/kawanet/express-upstream/actions/)
+[![Node.js CI](https://github.com/kawanet/express-upstream/actions/workflows/nodejs.yml/badge.svg?branch=main)](https://github.com/kawanet/express-upstream/actions/)
 [![npm version](https://img.shields.io/npm/v/express-upstream)](https://www.npmjs.com/package/express-upstream)
 
 Express.js proxy middleware to pass requests to an upstream server.
@@ -29,7 +29,7 @@ app.listen(3000);
 ```
 
 See TypeScript declaration
-[express-upstream.d.ts](https://github.com/kawanet/express-upstream/blob/master/types/express-upstream.d.ts)
+[express-upstream.d.ts](https://github.com/kawanet/express-upstream/blob/main/types/express-upstream.d.ts)
 for more detail.
 
 ## LICENSE
